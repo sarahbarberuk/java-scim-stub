@@ -1,5 +1,7 @@
 # SCIM Stub Java app for testing Okta integration
 
+This is a companion repository to Stytch's SCIM API article
+
 ## To get this to run
 
 1. Install Java and set JAVA_HOME environment variable
